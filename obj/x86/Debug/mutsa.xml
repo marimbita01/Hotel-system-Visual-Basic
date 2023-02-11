@@ -1,0 +1,124 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+mutsa
+</name>
+</assembly>
+<members>
+<member name="T:mutsa.HopeFayHotel_DataSet.Clients_Booking_FileDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:mutsa.HopeFayHotel_DataSet.Clients_Food_Order_FileDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:mutsa.HopeFayHotel_DataSet.Clients_Payment_FileDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:mutsa.HopeFayHotel_DataSet.Inventory_Management_FileDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:mutsa.HopeFayHotel_DataSet.Clients_Booking_FileRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:mutsa.HopeFayHotel_DataSet.Clients_Food_Order_FileRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:mutsa.HopeFayHotel_DataSet.Clients_Payment_FileRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:mutsa.HopeFayHotel_DataSet.Inventory_Management_FileRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:mutsa.HopeFayHotel_DataSet.Clients_Booking_FileRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:mutsa.HopeFayHotel_DataSet.Clients_Food_Order_FileRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:mutsa.HopeFayHotel_DataSet.Clients_Payment_FileRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:mutsa.HopeFayHotel_DataSet.Inventory_Management_FileRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:mutsa.HopeFayHotel_DataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:mutsa.HopeFayHotel_DataSetTableAdapters.Clients_Booking_FileTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:mutsa.HopeFayHotel_DataSetTableAdapters.Clients_Food_Order_FileTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:mutsa.HopeFayHotel_DataSetTableAdapters.Clients_Payment_FileTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:mutsa.HopeFayHotel_DataSetTableAdapters.Inventory_Management_FileTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:mutsa.HopeFayHotel_DataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(mutsa.HopeFayHotel_DataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:mutsa.HopeFayHotel_DataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(mutsa.HopeFayHotel_DataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:mutsa.HopeFayHotel_DataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(mutsa.HopeFayHotel_DataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:mutsa.HopeFayHotel_DataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:mutsa.HopeFayHotel_DataSetTableAdapters.TableAdapterManager.UpdateAll(mutsa.HopeFayHotel_DataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:mutsa.HopeFayHotel_DataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:mutsa.HopeFayHotel_DataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:mutsa.HopeFayHotel_DataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="P:mutsa.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:mutsa.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:mutsa.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

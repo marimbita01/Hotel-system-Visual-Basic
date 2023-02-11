@@ -1,0 +1,13 @@
+C:\Users\MARIMBITA\Documents\mutsawashe\mutsa\mutsa\bin\Debug\mutsa.exe.config
+C:\Users\MARIMBITA\Documents\mutsawashe\mutsa\mutsa\bin\Debug\mutsa.exe
+C:\Users\MARIMBITA\Documents\mutsawashe\mutsa\mutsa\bin\Debug\mutsa.pdb
+C:\Users\MARIMBITA\Documents\mutsawashe\mutsa\mutsa\bin\Debug\mutsa.xml
+C:\Users\MARIMBITA\Documents\mutsawashe\mutsa\mutsa\obj\x86\Debug\mutsa.Clienst_Payments_File.resources
+C:\Users\MARIMBITA\Documents\mutsawashe\mutsa\mutsa\obj\x86\Debug\mutsa.Clients_Booking.resources
+C:\Users\MARIMBITA\Documents\mutsawashe\mutsa\mutsa\obj\x86\Debug\mutsa.Clients_Food_Ordering_File.resources
+C:\Users\MARIMBITA\Documents\mutsawashe\mutsa\mutsa\obj\x86\Debug\mutsa.Invetory_Management_File.resources
+C:\Users\MARIMBITA\Documents\mutsawashe\mutsa\mutsa\obj\x86\Debug\mutsa.Resources.resources
+C:\Users\MARIMBITA\Documents\mutsawashe\mutsa\mutsa\obj\x86\Debug\mutsa.vbproj.GenerateResource.Cache
+C:\Users\MARIMBITA\Documents\mutsawashe\mutsa\mutsa\obj\x86\Debug\mutsa.exe
+C:\Users\MARIMBITA\Documents\mutsawashe\mutsa\mutsa\obj\x86\Debug\mutsa.xml
+C:\Users\MARIMBITA\Documents\mutsawashe\mutsa\mutsa\obj\x86\Debug\mutsa.pdb
